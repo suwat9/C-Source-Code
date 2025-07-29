@@ -1,5 +1,3 @@
-//#include <iostream>
-//#include <cmath>
 class Triangle {
 	public:
 	float base, height;
