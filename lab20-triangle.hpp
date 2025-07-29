@@ -1,6 +1,6 @@
 //#include <iostream>
 //#include <cmath>
-class triangle {
+class Triangle {
 	public:
 	float base, height;
 	
